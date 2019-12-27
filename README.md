@@ -11,8 +11,8 @@
 - [Creators](#creators)
 
 ## Pre-Requisites
-- JDK
-- NetBeans to open project if needed
+- [Install JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- [Netbeans](https://netbeans.org/downloads/8.2/)
 
 ## Demo
 - [Video]()
@@ -26,11 +26,11 @@
 
 ```text
 Products_Management_With_BSTree
+├── build.sh
 ├── build.xml
 ├── dist
 │   ├── Products_Management_With_BSTree.jar
 │   └── README.TXT
-├── make_readme.sh
 ├── manifest.mf
 ├── myproduct.txt
 ├── nbproject
